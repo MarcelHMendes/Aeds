@@ -3,7 +3,7 @@
 #include <string.h>
 #include "lista.h"
 #define MAXUSUARIOS 100
-
+//FEITA A ALTERAÇÃO
 int RetornaIndice(TItemUser x[],int idUser){
     int aux;
     for(aux = 0;aux < MAXUSUARIOS;aux++){
